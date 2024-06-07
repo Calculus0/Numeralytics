@@ -5,3 +5,4 @@ scipy==1.13.1
 setuptools==70.0.0
 streamlit==1.35.0
 sympy==1.12.1
+git+https://github.com/lukew3/mathgenerator.git@main#egg=mathgenerator
